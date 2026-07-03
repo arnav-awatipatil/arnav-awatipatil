@@ -32,6 +32,10 @@
 | Project | Description |
 |---------|-------------|
 | [S.U.T.R.A.](https://github.com/NishadCodes18/S.U.T.R.A.-Moving-Traffic-Saving-Lives) | Moving Traffic, Saving Lives. A traffic management and optimization project. |
+| **CaféHub** *(Coming Soon)* | **Premium Coffee Experience Platform** – A modern, responsive coffee brand website built with **React.js, HTML5, CSS3, JavaScript, and Tailwind CSS**.<br><br>
+• ☕ Interactive menu and smooth scrolling experience.<br>
+• 📍 Store locator and responsive UI.<br>
+• 🎨 Mobile-first design with a modern aesthetic. 
 
 
 <br>
